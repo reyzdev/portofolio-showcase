@@ -46,7 +46,6 @@
 | Styling | Tailwind CSS |
 | Animasi | CSS + canvas (tanpa library animasi besar) |
 | Deploy | Cloudflare Workers static assets + custom domain |
-| CI | GitHub Actions (build) |
 
 ## Cara deploy
 
